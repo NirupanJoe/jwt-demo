@@ -4,11 +4,19 @@
 		"userId": "1"
 	},
 	{
-		"brand": "ford",
+		"brand": "bmw",
 		"userId": "1"
 	},
 	{
-		"brand": "ford",
+		"brand": "audi",
 		"userId": "1"
+	},
+	{
+		"brand": "tata",
+		"userId": "2"
+	},
+	{
+		"brand": "kia",
+		"userId": "2"
 	}
 ]
